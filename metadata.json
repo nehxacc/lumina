@@ -1,0 +1,8 @@
+{
+  "name": "Lumina",
+  "description": "A calm, visual, and honest social space for women to share ideas, aesthetics, and moods. Featuring a Pinterest-style masonry feed, anonymous posting, and private communities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
